@@ -41,8 +41,9 @@ A "Print to Console" button is shown on the frontend. When clicked:
   HTML5 + CSS3 (basic styling)
 
 
-
 ## Future Improvements
 Auto-refresh products data every so often
+
 Show a "loading..." indicating while fetching data
+
 Add search/filter options on the frontend
